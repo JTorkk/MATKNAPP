@@ -23,7 +23,7 @@ void setup()
     BT.begin(9600);
 
     // Print a message indicating the Arduino is ready
-    Serial.println("Slave ready.");
+    Serial.println("Button ready.");
 }
 
 // Loop function runs continuously after setup()
