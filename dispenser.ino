@@ -33,7 +33,7 @@ void setup()
     myStepper.setSpeed(1500);        // Current speed setting
 
     // Indicate setup completion
-    Serial.println("Master ready.");
+    Serial.println("Dispenser ready.");
 }
 
 // The loop function runs continuously
